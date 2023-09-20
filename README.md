@@ -1,6 +1,6 @@
 # Google PageRank: Analysis & Computation Techniques Report
 ## Environment: 
-Matlab
+Latex, Matlab
 
 ## Introduction:
 This repository contains a comprehensive study on Google's PageRank algorithm, its underpinnings in Markov models, and its efficient computation techniques, particularly in the Matlab environment.
